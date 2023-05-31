@@ -1,7 +1,7 @@
 # LearnedLLA
 The official implementation of LearnedLLA data structure in the paper:
 
-McCauley, S., Moseley, B., Niaparast, A. and Singh, S., 2023. Online List Labeling with Predictions. arXiv preprint arXiv:2305.10536.. 
+McCauley, S., Moseley, B., Niaparast, A. and Singh, S., 2023. Online List Labeling with Predictions. arXiv preprint arXiv:2305.10536.
 
 ## Datasets
 We use several datasets from SNAP Large Network Dataset Collection: https://snap.stanford.edu/data/.
